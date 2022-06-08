@@ -1,6 +1,6 @@
 ## 在线考试拍摄试卷批量处理变成白底黑字（支持子目录）
 
-## 打包好的文件在release中。
+## 打包好的可执行文件在release中下载，文件名default.exe
 
 #### 原图片
 ![原图片](https://s3.bmp.ovh/imgs/2022/06/08/60ca8f5ab2ef69ed.jpg)
